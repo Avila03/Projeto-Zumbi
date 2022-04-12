@@ -1,4 +1,4 @@
 # PUC
-Trabalhos/Programas  PUCRS
-Jogo de zumbis em tabuleiro
-JAVA
+# Programação Orientada a Objetos
+# Trabalho Final – 2021/2
+# Apocalipse zumbi - Simulador
