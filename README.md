@@ -3,6 +3,9 @@
 # Trabalho Final – 2021/2
 # Apocalipse zumbi - Simulador
 
+![image](https://user-images.githubusercontent.com/103264972/163031028-96c4652d-f2ac-4324-aca2-50c889a8c3aa.png)
+
+
 Em um futuro distópico, no ano de 2030, durante experimentos clínicos houve 
 pacientes com infecções e um vírus se espalhou. Durante tentativa de tratamento houve uma 
 piora significativa e devido ao agravamento da situação os infectados evoluíram para um 
