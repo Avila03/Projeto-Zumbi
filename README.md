@@ -45,5 +45,6 @@ sinal de alerta para as outras equipes.
 
 Observações:
 
-** O código inicial utiliza uma ferramenta de gerenciamento de código (*maven), que deve estar instalado na sua máquina: https://maven.apache.org/install.html.
-** Para executar o projeto deve-se utilizar o gerenciador - abra um terminal na pasta principal do projeto e execute:* mvn compile javafx:run
+ O código inicial utiliza uma ferramenta de gerenciamento de código (*maven), que deve estar instalado na sua máquina: https://maven.apache.org/install.html.
+
+ Para executar o projeto deve-se utilizar o gerenciador - abra um terminal na pasta principal do projeto e execute:* mvn compile javafx:run
