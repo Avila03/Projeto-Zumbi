@@ -42,3 +42,8 @@ vivem apenas 3 dias após infectado.
  Foi instaurando um sistema para prisioneiros de sangue tipo A, equipe chamada 
 bobões, servindo como iscas para os zombeis, assim que infectados se mantém imóveis como 
 sinal de alerta para as outras equipes. 
+
+Observações:
+
+** O código inicial utiliza uma ferramenta de gerenciamento de código (*maven), que deve estar instalado na sua máquina: https://maven.apache.org/install.html.
+** Para executar o projeto deve-se utilizar o gerenciador - abra um terminal na pasta principal do projeto e execute:* mvn compile javafx:run
